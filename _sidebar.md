@@ -1,7 +1,7 @@
-- 我自己
+* 我自己
   
-  * [简历](My/jianli)
+  * [简历](my/jianli)
 
-- 产品经理
+* 产品经理
   
-  * [产品经理那些事](md/prodect-thing.md)
+  * [产品经理那些事](prodect/prodect-thing.md)
