@@ -1,6 +1,6 @@
 - 我
   
-  - [简历](my/jianli.md)
+  - [简历](md/my/jianli.md)
 
 - 计算机
 
