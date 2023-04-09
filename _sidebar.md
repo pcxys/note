@@ -5,7 +5,3 @@
 - 产品经理
   
   - [产品经理那些事](prodect/prodect-thing.md)
-
-- 主页
-  
-  - [在那桃花盛开的地方](abc.md)
