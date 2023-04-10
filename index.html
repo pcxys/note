@@ -15,10 +15,15 @@
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,
+	  alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+	  },
+	  name: '小地方',
+	  repo: 'https://github.com/pcxys/blog.git'
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="docsify/resource/__unpkg.com_docsify@4"></script>
   <script src="docsify/resource/__unpkg.com_docsify-copy-code"></script>
   <script src="docsify/resource/__unpkg.com_docsify-plantuml_dist_docsify-plantuml.min.js"></script>

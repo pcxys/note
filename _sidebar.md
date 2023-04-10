@@ -1,11 +1,7 @@
-- 我
+- 我自己
   
   - [简历](md/my/jianli.md)
 
-- 计算机
-
-- - 网络
-  
-  - - 交换机
-
 - 产品经理
+  
+  - [产品经理那些事](prodect/prodect-thing.md)
