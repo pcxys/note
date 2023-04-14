@@ -1,6 +1,6 @@
 - 我自己
   
-  - [简历](my/jianli.md)
+  - [简历](md/my/jianli.md)
 
 - 产品经理
   
