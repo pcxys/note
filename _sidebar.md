@@ -8,7 +8,8 @@
 
 - 交易
   
-  - [投资100个关键词](transaction/Transaction-keyword.md)
+  - [投资100个关键词](trader/Transaction-keyword.md)
+  - [等待与趋势](trader/wait-and-trend.md)
 
 - 网页开发
   
