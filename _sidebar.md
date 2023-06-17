@@ -6,6 +6,7 @@
   
   - [失业在家](life/unemployment-at-home.md)
   - [借呗让我思考人生](life/jiebei-think-life.md)
+  - [微信公众号迁移到RSS](life/wechat-publice-to-rss.md)
 
 - 交易
   
