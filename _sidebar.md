@@ -5,6 +5,7 @@
 - 生活
   
   - [失业在家](life/unemployment-at-home.md)
+  - [借呗让我思考人生](life/jiebei-think-life.md)
 
 - 交易
   
