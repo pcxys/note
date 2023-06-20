@@ -10,6 +10,7 @@
   - [找方法而不是理由](life/find-way-not-reason.md)
   - [34岁了](life/thirty-four.md)
   - [从语音输入聊到Web3和NTF](life/speech-input-to-web3-ntf.md)
+  - [换语音输入软件](life/change-voice-input-software.md)
 
 - 交易
   
