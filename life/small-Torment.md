@@ -1,6 +1,6 @@
 ## 小小的折腾了一下
 
-&ensp;&ensp;&ensp;&ensp;刚才把服务器倒腾了一下，把Nginx和PHP分离了，独立在两个服务器上上使用，然后写了一篇 [《nginx与php服务独立服务器使用》]([fei - notebook](https://note.liaofei.org/#/server-maintenance/nginx-and-php-separate-server-used))。预估这篇博文大概写了一个多小时，我连折腾带遇到问题，解决问题，可能都不到两个小时，写文章就花了一个小时，一共是花了三个小时。
+&ensp;&ensp;&ensp;&ensp;刚才把服务器倒腾了一下，把Nginx和PHP分离了，独立在两个服务器上上使用，然后写了一篇博文。预估这篇博文大概写了一个多小时，我连折腾带遇到问题，解决问题，可能都不到两个小时，写文章就花了一个小时，一共是花了三个小时。
 
 &ensp;&ensp;&ensp;&ensp;写点技术性文章，写点操作指南，感觉还挺不错的，最起码不用每天都只发日常播客，里面只有自己的日常，也得写点别的。
 
