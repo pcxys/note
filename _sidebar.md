@@ -11,6 +11,7 @@
   - [34岁了](life/thirty-four.md)
   - [从语音输入聊到Web3和NTF](life/speech-input-to-web3-ntf.md)
   - [换语音输入软件](life/change-voice-input-software.md)
+  - [小小的折腾了一下](life/small-Torment.md)
 
 - 交易
   
