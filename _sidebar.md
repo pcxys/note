@@ -21,3 +21,7 @@
 - 网页开发
   
   - [前端开发100个关键词](/program-develop/web-develop-no100-keyword.md)
+
+- 服务器倒腾
+  
+  - [nginx与php服务独立服务器使用](server-maintenance/nginx-and-php-separate-server-used.md)
