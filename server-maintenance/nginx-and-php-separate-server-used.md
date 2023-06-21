@@ -40,21 +40,19 @@ sudo vim /etc/exports
 
 ``/home/ubuntu/www 10.0.0.138(rw,sync,no_subtree_check)``
 
-
-
 ### 固定NFS服务端口（重要）
 
 #### 查看当前NFS使用的端口
 
 使用`rpcinfo -p`
 
-（图片）
+![rpcinfo -p](http://img.liaofei.org/2023/06/21/1687315766.jpg)
 
 #### 编辑 /etc/services
 
 使用命令``sudo vim  /etc/services``在最下方添加固定端口的设置
 
-（图片）
+![/etc/services](http://img.liaofei.org/2023/06/21/1687315767.jpg)
 
 > nfs 和 portmapper两个服务是固定端口的，nfs为2049，portmapper为111。
 > 
@@ -89,8 +87,6 @@ sudo firewall-cmd --list-all
 ```
 
 > "/"用途是可以一次性输入多行命令
-
-
 
 ### 用户端安装服务
 
@@ -130,8 +126,6 @@ sudo umount /local_directory
 
 > /local_directory是本地被挂载目录的路径
 
-
-
 ### 调整nginx解析配置
 
 #### 修改网站配置文件的PHP服务器IP地址
@@ -144,8 +138,6 @@ sudo umount /local_directory
         include        fastcgi_params;
     }
 ```
-
-（图片）
 
 #### 重载nginx配置文件
 
@@ -175,7 +167,7 @@ docker-compose配置文件中添加以下语句
       - ~/www:/var/www/html # 宿主机网站根目录
       - ~/logs/php:/var/log/php-fpm # 宿主机php日志目录
     container_name: php
-    restart: always	
+    restart: always    
     ports:
       - "9000:9000" # 映射9000端口到宿主机   
     networks:
@@ -246,14 +238,6 @@ sudo firewall-cmd --reload
 sudo firewall-cmd --list-all
 ```
 
-
-
-
-
 ---
 
 **到此基本完成了迁移，大家视自己的情况，上面的步骤酌情进行调整。**
-
-
-
-
