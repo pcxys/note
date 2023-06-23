@@ -13,6 +13,7 @@
   - [换语音输入软件](life/change-voice-input-software.md)
   - [小小的折腾了一下](life/small-Torment.md)
   - [女儿回来了](life/daughter-come-home.md)
+  - [女儿病了](life/daughter-fall-ill.md)
 
 - 交易
   
