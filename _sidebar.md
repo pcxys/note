@@ -14,6 +14,8 @@
   - [小小的折腾了一下](life/small-Torment.md)
   - [女儿回来了](life/daughter-come-home.md)
   - [女儿病了](life/daughter-fall-ill.md)
+  - [把问题说明白](life/spell-out-the-problem.md)
+  - 
 
 - 交易
   
