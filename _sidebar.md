@@ -15,6 +15,7 @@
   - [女儿回来了](life/daughter-come-home.md)
   - [女儿病了](life/daughter-fall-ill.md)
   - [把问题说明白](life/spell-out-the-problem.md)
+  - [人文-科技-白日梦](life/humanities-technology-daydreaming.md)
   - 
 
 - 交易
