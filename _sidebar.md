@@ -31,3 +31,4 @@
 - 服务器倒腾
   
   - [nginx与php服务独立服务器使用](server-maintenance/nginx-and-php-separate-server-used.md)
+  - [qBittorrent部署记录](server-maintenance/qBittorrent-deploy-Records.md)
