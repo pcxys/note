@@ -16,7 +16,7 @@
   - [女儿病了](life/daughter-fall-ill.md)
   - [把问题说明白](life/spell-out-the-problem.md)
   - [人文-科技-白日梦](life/humanities-technology-daydreaming.md)
-  - 
+  - [我的减肥方法](life/my-slim-down-method.md)
 
 - 交易
   
