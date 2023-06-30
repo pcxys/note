@@ -20,6 +20,7 @@
 
 - 交易
   
+  - [交易规则](trader/trading-rules.md)
   - [投资100个关键词](trader/Transaction-keyword.md)
   - [等待与趋势](trader/wait-and-trend.md)
   - [关于加仓](trader/buy-in-more-shares.md)
